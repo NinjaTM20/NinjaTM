@@ -1,6 +1,6 @@
 ﻿#!/usr/bin/env bash
 
-cd $HOME/Ninja
+cd $HOME/NinjaTM
 
 install() {
 	    cd tg
